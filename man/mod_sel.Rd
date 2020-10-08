@@ -14,7 +14,7 @@ mod_sel(one_simu_result, n_edges, sel_crit = "JI")
 \item{sel_crit}{blah}
 }
 \value{
-blah blah
+blah blah blah
 }
 \description{
 Select Model using the result from eval_by_lam

@@ -76,7 +76,7 @@ eval_by_lam = function(A_est_by_lam, A_true, n_edges){
 #' @param n_edges blah
 #' @param sel_crit blah
 #'
-#' @return blah blah
+#' @return blah blah blah
 #' @export
 #'
 mod_sel = function(one_simu_result, n_edges, sel_crit = "JI"){
